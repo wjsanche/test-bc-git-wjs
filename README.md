@@ -1,2 +1,11 @@
 # test-bc-git-wjs
-Repositorio de prueba curso de modernización
+
+# Repositorio de prueba para iSeries
+
+
+-Jose Mauro
+-Juan Ca 
+-Will
+
+>- "Todo entendido!"
+
